@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **MongoDb**
 
-- 👨‍💻 All of my projects are available at [github.com/sdev1356](github.com/sdev1356)
+
 
 - 💬 Ask me about **React,Express,Java**
 
