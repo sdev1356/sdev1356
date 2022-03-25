@@ -5,7 +5,7 @@
 
 
 
-- 💬 Ask me about **React,Express,Java**
+- 💬 Ask me about **React,ExpressJs,Java**
 
 - 📫 How to reach me **devashishsharma260@gmail.com**
 
